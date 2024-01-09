@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>draft - Tag - </title>
+    <link>https://pukuo.github.io/tags/draft/</link>
+    <description>draft - Tag | </description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jan 2024 07:55:06 &#43;0800</lastBuildDate><atom:link href="https://pukuo.github.io/tags/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Hello_hugo</title>
+  <link>https://pukuo.github.io/posts/b7c0c5a/</link>
+  <pubDate>Mon, 08 Jan 2024 07:55:06 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>https://pukuo.github.io/posts/b7c0c5a/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
